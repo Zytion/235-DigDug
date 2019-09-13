@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+    font-family: 'Indie Flower', cursive;
+    border-bottom: 1px solid blue;
+}
+h2 {
+    color: red;
+    font-family: 'Indie Flower', cursive;
+}
+
+body {
+    margin-left: 1%;
+    background-color:lightblue;
+    font-family: "Arial", sans-serif;
+}
+
+p {
+    margin-left:100px;
+}
+
+blockquote {
+    background-color: lightgray;
+    padding: 1rem;
+}
+
+img.side {
+    float:right;
+    margin: 0 12px;
+}
+
+footer h2 {
+    color: purple;
+}
