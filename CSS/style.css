@@ -7,11 +7,19 @@ h2 {
     color: #000097;
     font-family: 'Indie Flower', cursive;
 }
-
+header{
+    padding: 1rem;
+}
 body {
     margin-left: 1%;
     background-color: #FCFCFC;
     font-family: "Arial", sans-serif;
+}
+
+main{
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 1rem;
 }
 
 a{
@@ -34,6 +42,7 @@ img.side {
 
 footer {
     background-color: #005B4C;
+    padding: 1rem;
 }
 
 footer a {
