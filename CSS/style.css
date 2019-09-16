@@ -1,17 +1,21 @@
 h1 {
-    color: red;
+    color: #000097;
     font-family: 'Indie Flower', cursive;
-    border-bottom: 1px solid blue;
+    border-bottom: 1px solid #5A2A00;
 }
 h2 {
-    color: red;
+    color: #000097;
     font-family: 'Indie Flower', cursive;
 }
 
 body {
     margin-left: 1%;
-    background-color:lightblue;
+    background-color: #FCFCFC;
     font-family: "Arial", sans-serif;
+}
+
+a{
+    color: #3D5A80;
 }
 
 p {
@@ -28,6 +32,10 @@ img.side {
     margin: 0 12px;
 }
 
-footer h2 {
-    color: purple;
+footer {
+    background-color: #005B4C;
+}
+
+footer a {
+    color: black;
 }
